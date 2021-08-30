@@ -32,3 +32,7 @@ UserInterface > Features > HideAll (xConfiguration UserInterface Features HideAl
 ####
 The configurations remove only the buttons, not the functionality as such. You can still share content using the Cisco Webex Teams app, even if you have removed the Share button from the user interface.
 
+
+### Cisco WebEx Room Series
+[https://www.cisco.com/c/en/us/support/collaboration-endpoints/spark-room-kit-series/series.html]
+
