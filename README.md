@@ -16,6 +16,6 @@ UserInterface > Features > Share > Start (xConfiguration UserInterface Features 
 
 UserInterface > Features > HideAll (xConfiguration UserInterface Features HideAll): Removes all the default buttons. In-Room Control panels are not removed.
 `````
-!
+##
 The configurations remove only the buttons, not the functionality as such. You can still share content using the Cisco Webex Teams app, even if you have removed the Share button from the user interface.
-!
+##
