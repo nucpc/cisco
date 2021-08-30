@@ -2,7 +2,10 @@
 
 
 ###
-UserInterface > Features > Call > Start (xConfiguration UserInterface Features Call Start): Removes the default Call button (including the directory, favorites, and recent calls lists). Also removes the Add participant button while in a call.
+~~~
+UserInterface > Features > Call > Start (xConfiguration UserInterface Features Call Start): 
+~~~
+Removes the default Call button (including the directory, favorites, and recent calls lists). Also removes the Add participant button while in a call.
 
 UserInterface > Features > Call > End (xConfiguration UserInterface Features Call End): Removes the End Call button.
 
