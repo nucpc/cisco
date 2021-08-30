@@ -1,12 +1,12 @@
 # Cisco Info
 
 
-### Removes the default Call button (including the directory, favorites, and recent calls lists). Also removes the Add participant button while in a call.
+##### Removes the default Call button (including the directory, favorites, and recent calls lists). Also removes the Add participant button while in a call.
 ~~~
 UserInterface > Features > Call > Start (xConfiguration UserInterface Features Call Start): 
 ~~~
 
-### Removes the End Call button.
+##### Removes the End Call button.
 ~~~
 UserInterface > Features > Call > End (xConfiguration UserInterface Features Call End): 
 ~~~
